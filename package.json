@@ -11,13 +11,23 @@
     "url": "git+https://github.com/pankajvashisht-ucreate/push-notification.git"
   },
   "keywords": [
+    "fcm",
     "push",
-    "solution"
+    "notification",
+    "push notification",
+    "apn",
+    "firebase cloud messaging",
+    "google",
+    "android",
+    "ios"
   ],
   "author": "pankaj vashisht",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pankajvashisht-ucreate/push-notification/issues"
   },
-  "homepage": "https://github.com/pankajvashisht-ucreate/push-notification#readme"
+  "homepage": "https://github.com/pankajvashisht-ucreate/push-notification#readme",
+  "dependencies": {
+    "mocha": "^7.0.0"
+  }
 }
