@@ -1,0 +1,23 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "push notification for FCM and APN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajvashisht-ucreate/push-notification.git"
+  },
+  "keywords": [
+    "push",
+    "solution"
+  ],
+  "author": "pankaj vashisht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajvashisht-ucreate/push-notification/issues"
+  },
+  "homepage": "https://github.com/pankajvashisht-ucreate/push-notification#readme"
+}
