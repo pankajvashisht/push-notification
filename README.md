@@ -8,8 +8,7 @@ A Node.JS simple interface to Apple Push Notification (APN) and Google's Firebas
 ```js
 $ npm install push-notification-node
 ```
-  ## Usage
-
+## Usage
 
   There are 2 ways to use this lib:
 ### The **Promise** one
@@ -120,7 +119,7 @@ var message = {
 
 ### APNS-specific fields (IOS)
 ```js
-var message = {
+const message = {
   data: { android: {
             ttl: 3600,
             notification: {
@@ -140,7 +139,7 @@ var message = {
 ### WebPush-specific fields
 
 ```js
-var message = {
+const message = {
   webpush: {
     notification: {
       title: '---',
@@ -184,11 +183,6 @@ const message = {
 ```
 In the same vein, it is possible include both data and notification fields in the same message.
 
-
-## Notes
-* See [FCM documentation][2] for general details.
-* See [Firebase Cloud Messaging HTTP Protocol][10] for details about the HTTP syntax used and JSON fields, notification and data objects. **(STRONGLY RECOMMENDED)**
-* On **iOS**, set **content_available** to **true** to receive data while your app is in background. (As seen in [FCM Docs][8])
 
 License
 
