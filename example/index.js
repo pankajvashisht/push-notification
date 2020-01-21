@@ -19,7 +19,7 @@ fcm
   });
 
 // call the fcm push method with callback
-fcm.sendpush(token, data, function(err, res) {
+fcm.sendPush(token, data, function(err, res) {
   if (err) {
     console.log(err);
   } else {
