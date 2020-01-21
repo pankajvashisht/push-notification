@@ -1,6 +1,6 @@
 {
   "name": "push-notification-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "push notification for FCM and APN",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,9 @@
     "android",
     "ios"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "pankaj vashisht",
   "license": "MIT",
   "bugs": {
