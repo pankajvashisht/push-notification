@@ -1,6 +1,6 @@
 {
   "name": "push-notification-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "push notification for FCM and APN",
   "main": "index.js",
   "scripts": {
