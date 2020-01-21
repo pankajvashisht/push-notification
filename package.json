@@ -1,5 +1,5 @@
 {
-  "name": "push-notification",
+  "name": "push-notification-node",
   "version": "1.0.0",
   "description": "push notification for FCM and APN",
   "main": "index.js",
