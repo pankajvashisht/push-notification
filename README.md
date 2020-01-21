@@ -1,5 +1,5 @@
 # push-notification-node [![NPM version](https://badge.fury.io/js/fcm-node.svg)](http://badge.fury.io/js/fcm-node)
-========
+
 Android and IOS Push notification by FCM APN.
 A Node.JS simple interface to Apple Push Notification (APN) and Google's Firebase Cloud Messaging (FCM). Supports both android and iOS
 
@@ -19,7 +19,7 @@ Via [npm][1]:
 
 ### Examples
 
-**Before starting you need to download privatekey.json file from  **  [This link](https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk "Service account tab")
+**Before starting you need to download privatekey.json file from**  [This link](https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk "Service account tab")
 
  ![](https://user-images.githubusercontent.com/19702085/46529601-a7390300-c8b4-11e8-9427-fe02505bea6b.gif "ddd")
 
