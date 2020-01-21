@@ -21,9 +21,6 @@
     "android",
     "ios"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": "pankaj vashisht",
   "license": "MIT",
   "bugs": {

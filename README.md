@@ -5,10 +5,9 @@ A Node.JS simple interface to Apple Push Notification (APN) and Google's Firebas
 
 ## Installation
 
-Via [npm][1]:
-
-  $ npm install push-notification-node
-
+```js
+$ npm install push-notification-node
+```
   ## Usage
 
 
